@@ -149,11 +149,11 @@ color: antiquewhite;
   height: 172px;
   width: 290px;
   padding-top: 10px;
-  background: url(image-11.jpg);
+  background: url(image/image-11.jpg);
 }
 
 .img-3{
-  background: url(image-12.webp);
+  background: url(image/image-12.webp);
   background-size: cover;
   background-repeat: no-repeat;
   height: 172px;
@@ -179,7 +179,7 @@ color: antiquewhite;
 }
 
 .img-4{
-  background:url(image-13.png);
+  background:url(image/image-13.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 172px;
@@ -188,7 +188,7 @@ color: antiquewhite;
  padding-top: 9px;
 }
 .img-5{
-  background:url(image-15.webp);
+  background:url(image/image-15.webp);
   background-size: cover;
   background-repeat: no-repeat;
   height: 173px;
@@ -216,7 +216,7 @@ color: antiquewhite;
   
 }
 .img-6{
-  background: url(image-16.jpg);
+  background: url(image/image-16.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 200px;
